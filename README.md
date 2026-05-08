@@ -32,10 +32,10 @@ Prevents invalid inputs for smooth user experience.
 
 ## **Project Structure:**-
 
-index.html – Main structure of the application (UI & form elements)
-style.css – Styling and responsive layout design
-app.js – Core logic (API calls, conversion, DOM updates)
-codes.js – Currency-to-country mapping for flag rendering
+* index.html – Main structure of the application (UI & form elements)
+* style.css – Styling and responsive layout design
+* app.js – Core logic (API calls, conversion, DOM updates)
+* codes.js – Currency-to-country mapping for flag rendering
 
 
 ## **Getting Started:**
