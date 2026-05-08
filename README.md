@@ -5,19 +5,19 @@ It uses live APIs to fetch exchange rates and dynamically update UI elements lik
 
 ## **Features:**
 
-1. **Live Exchange Rates**
+1. **Live Exchange Rates:**
 Uses real-time data from the Currency API.
 
-2. **Dynamic Country Flags**
+2. **Dynamic Country Flags:**
 Automatically updates flags based on selected currencies using FlagsAPI.
 
-3. **Instant Conversion**
+3. **Instant Conversion:**
 Fast and accurate currency conversion with API-powered calculations.
 
-4. **Fully Responsive Design**
+4. **Fully Responsive Design:**
 Optimized for mobile, tablet, and desktop screens.
 
-5. **Input Validation**
+5. **Input Validation:**
 Prevents invalid inputs for smooth user experience.
 
 
